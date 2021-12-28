@@ -1,6 +1,6 @@
 <h3 align="left"> TOLGA BAYKAL <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
-### 🔋 Battery Management System Deisgner | Senior Embedded Systems Engineer
+### 🔋 Battery Management System Designer | Senior Embedded Systems Engineer
 ---
 ### 🖥️ I’m currently working for:
 - [LiBat™ - Lithium Battery Solutions](https://li-bat.com), LiBat™ is an exclusive solution partner for your lithium battery, battery management systems and battery powered energy applications.
