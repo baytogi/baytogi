@@ -1,4 +1,5 @@
-### Tolga Baykal 👋
+<h3 align="left"> TOLGA BAYKAL <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
+
 ### 🔋 Battery Management System Deisgner | Senior Embedded Systems Engineer
 ---
 ### 🖥️ I’m currently working for:
