@@ -6,9 +6,9 @@
 - [Togitek](https://togitek.com), Togitek was established in 2015 and specializes in the manufacturing of electronic devices, development of embedded system, Linux or RTOS based electronic control board. We develop customized solutions for our customers with our high knowledge of sub-electronic and electromechanical elements throughout the entire design process of electronic device manufacturing. 
 
 ### 🌍 Check out our services:
-- [LiBat Product Documentation](https://wiki.li-bat.com/)
-- [LiBat Connect](https://connect.li-bat.com/login)
-- [LiBat Github Page](https://github.com/li-bat)
+- [LiBat™ Product Documentation](https://wiki.li-bat.com/)
+- [LiBat™ Connect](https://connect.li-bat.com/login)
+- [LiBat™ Github Page](https://github.com/li-bat)
 - [Togitek Github Page](https://github.com/togitek)
 
 ### 👉 Follow us:
