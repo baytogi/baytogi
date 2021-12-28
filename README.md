@@ -16,6 +16,7 @@
 - Follow @TogiTeknoloji on [Twitter](https://www.twitter.com/TogiTeknoloji)
 - Follow @togitek on [Linkedin](https://www.linkedin.com/company/togitek/)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=baytogi&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--
 **baytogi/baytogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
